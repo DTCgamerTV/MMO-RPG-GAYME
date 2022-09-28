@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://assets/testChars/TestGurl.png" type="Texture" id=1]
+
+[node name="Sprite3D" type="Sprite3D"]
+transform = Transform( 4.05, 0, 0, 0, 4.05, 0, 0, 0, 1, 0, 2.31271, 0 )
+billboard = 2
+shaded = true
+texture = ExtResource( 1 )
